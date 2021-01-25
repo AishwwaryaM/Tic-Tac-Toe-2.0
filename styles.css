@@ -1,0 +1,45 @@
+body{
+    margin: auto 35%;
+}
+
+table, tr, td {
+    border: 3px solid #112d4e;
+    border-collapse: collapse;
+    background-color:  #dbe2ef;
+}
+
+h1{
+    font-size: 45px;
+    color: #112d4e;
+}
+
+#newgame{
+    margin: auto 30%;
+    background-color: #112d4e;
+    color: #dbe2ef;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.game{
+    color: #ef4f4f;
+    font-size: 20px;
+    margin: 10px 30%;
+}
+
+.slots{
+    height:90px;
+    width:90px;
+    border: none;
+    background-color: #dbe2ef;
+    font-size: 45px;
+}
+
+.X{
+    color: #3f72af;
+}
+
+.O{
+    color: #ef4f4f;
+}
